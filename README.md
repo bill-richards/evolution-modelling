@@ -1,1 +1,3 @@
 # evolution-modelling
+
+Bill Richards
