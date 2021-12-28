@@ -19,4 +19,4 @@ logo                     : # path of logo image to display in the masthead, e.g.
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 
-theme: jekyll-theme-dinky
+theme: minimal-mistakes
